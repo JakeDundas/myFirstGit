@@ -1,0 +1,19 @@
+{
+  "name": "myfirstgit",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JakeDundas/myFirstGit.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JakeDundas/myFirstGit/issues"
+  },
+  "homepage": "https://github.com/JakeDundas/myFirstGit#readme"
+}
